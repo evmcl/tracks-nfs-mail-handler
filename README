@@ -1,0 +1,28 @@
+A script to use nearlyfreespeech.net's feature of being able to redirect an
+email alias to a URL in order to create new actions in a tracks installation.
+
+This uses the REST API of a Tracks installation.
+
+References:
+  http://www.getontracks.org/
+  https://www.nearlyfreespeech.net/
+  https://members.nearlyfreespeech.net/wiki/HowTo/EmailURL
+
+See comments in the todo_mail_handler.php file for how to setup and configure.
+
+--
+
+Copyright 2009 Evan McLean
+http://evanmclean.com/
+
+This program is free software: you can redistribute it and/or modify it under
+the terms of the GNU General Public License as published by the Free Software
+Foundation, either version 3 of the License, or (at your option) any later
+version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with
+this program.  If not, see <http://www.gnu.org/licenses/>.
