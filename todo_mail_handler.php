@@ -23,7 +23,9 @@
 # an email alias to a URL in order to create new actions in a tracks
 # installation.
 #
-# This uses the REST API of a Tracks installation.
+# This uses the REST API of a Tracks installation.  Even if it is not directly
+# useful as is, you might find it a useful refrence of some PHP code that uses
+# the Tracks API.
 #
 # References:
 #   http://www.getontracks.org/
